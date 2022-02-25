@@ -1,0 +1,3 @@
+[submodule "SingleFile"]
+	path = SingleFile
+	url = https://github.com/gildas-lormeau/SingleFile
